@@ -1,0 +1,24 @@
+*{
+	background: #074651;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+#center-div {
+	h1, p {
+	color:#B4F0F3;
+	opacity: .75;
+	}
+
+	h1 {
+		padding: 2em;
+		text-align: center;
+	}
+
+	p {
+		display: block;
+		text-align: center;
+	}
+}
